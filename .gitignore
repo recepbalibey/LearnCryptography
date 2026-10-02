@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.DS_Store
+
+# Local previews and development files
+preview*.jpg
+preview*.png
+*.log
+coverage/
+.vite/
+*.tsbuildinfo
+.idea/
+.vscode/
+
+# Credentials and machine-specific files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc
+.codex/
+.agents/
+.aws/
