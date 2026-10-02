@@ -1,6 +1,6 @@
 # LearnCryptography
 
-![LearnCryptography project preview](LearnCryptography.png)
+![LearnCryptography project preview](Cryptography.png)
 
 A practical learning website that helps students understand cryptography through visual lessons and hands-on experiments. The goal is to make encryption, hashing, signatures, and digital certificates easier to understand and use.
 
