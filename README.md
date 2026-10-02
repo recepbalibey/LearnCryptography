@@ -1,5 +1,7 @@
 # Cryptography, visually
 
+![LearnCryptography: five visual lessons with interactive cryptography experiments](LearnCryptography.png)
+
 Five lessons with interactive animations, live experiments, theory, prediction questions and runnable JavaScript examples:
 
 1. Symmetric encryption: AES-GCM
